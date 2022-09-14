@@ -1,5 +1,4 @@
-# Generate text from Dhar Mann video scripts
-# using an LSTM text generator model
+# Generate text from Dhar Mann video scripts using an LSTM text generator model
 
 To run this model, clone the [`tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
 repository.
